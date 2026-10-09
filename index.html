@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Panda Flora · A cozy flower shop game</title>
+  <meta name="description" content="Panda Flora is a cozy first-person flower shop game. Grow your own flowers, wrap every bouquet by hand and run a little shop. Wishlist on Steam.">
+  <meta property="og:title" content="Panda Flora · A cozy flower shop game">
+  <meta property="og:description" content="Grow your own flowers, wrap every bouquet by hand and run a little shop. Wishlist on Steam.">
+  <meta property="og:image" content="assets/img/capsule.jpg">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@PandaFloraGame">
+  <link rel="icon" type="image/png" href="assets/img/favicon.png">
+  <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&family=Zen+Maru+Gothic:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header class="nav" id="top">
+  <div class="nav__inner">
+    <a class="nav__brand" href="#top" aria-label="Panda Flora home">
+      <img src="assets/img/favicon.png" alt="" width="32" height="32">
+      <span>Panda Flora</span>
+    </a>
+    <nav class="nav__links" aria-label="Main">
+      <a href="#bouquets" data-i18n="nav.bouquets">Bouquets</a>
+      <a href="#features" data-i18n="nav.features">Features</a>
+      <a href="press.html" data-i18n="nav.press">Press</a>
+    </nav>
+    <div class="nav__actions">
+      <button class="lang" type="button" id="langToggle" aria-label="Switch language">日本語</button>
+      <a class="btn btn--small btn--primary js-steam" href="https://store.steampowered.com/app/5337790/Panda_Flora/" data-i18n="nav.wishlist">Wishlist</a>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero__bg" aria-hidden="true"></div>
+    <div class="hero__content">
+      <img class="hero__logo" src="assets/img/logo.png" alt="Panda Flora" width="900" height="560">
+      <p class="hero__tagline" data-i18n="hero.tagline">A cozy first-person flower shop game.</p>
+      <p class="hero__sub" data-i18n="hero.sub">Grow your own flowers, wrap every bouquet by hand, and run a little shop that grows with you.</p>
+      <div class="hero__cta">
+        <a class="btn btn--primary js-steam" href="https://store.steampowered.com/app/5337790/Panda_Flora/">
+          <svg class="btn__icon" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 0 0-9.96 9.1l5.36 2.22a2.83 2.83 0 0 1 1.6-.5h.16l2.38-3.46v-.05a3.77 3.77 0 1 1 3.77 3.77h-.09l-3.4 2.43v.13a2.84 2.84 0 0 1-5.62.56L2.36 14.5A10 10 0 1 0 12 2Zm-4.72 15.18-1.23-.5a2.13 2.13 0 1 0 1.17-2.9l1.27.52a1.57 1.57 0 1 1-1.2 2.9Zm9.6-7.8a2.51 2.51 0 1 0-2.5 2.5 2.51 2.51 0 0 0 2.5-2.5Zm-4.39 0a1.88 1.88 0 1 1 1.88 1.88 1.88 1.88 0 0 1-1.88-1.88Z"/></svg>
+          <span data-i18n="cta.wishlist">Wishlist on Steam</span>
+        </a>
+        <a class="btn btn--glass" href="https://discord.gg/ZaYYqCMU4R" target="_blank" rel="noopener">
+          <svg class="btn__icon" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M19.3 5.3A16.6 16.6 0 0 0 15.2 4l-.2.4a15.3 15.3 0 0 1 3.7 1.8 13.4 13.4 0 0 0-11.4 0A15.3 15.3 0 0 1 11 4.4L10.8 4a16.6 16.6 0 0 0-4.1 1.3A17.3 17.3 0 0 0 3.7 17a16.8 16.8 0 0 0 5 2.5l1.1-1.7a10.4 10.4 0 0 1-1.7-.8l.4-.3a11.9 11.9 0 0 0 7 0l.4.3a10.4 10.4 0 0 1-1.7.8l1.1 1.7a16.8 16.8 0 0 0 5-2.5 17.2 17.2 0 0 0-3-11.7ZM9.5 14.6a1.8 1.8 0 1 1 1.7-1.8 1.8 1.8 0 0 1-1.7 1.8Zm5 0a1.8 1.8 0 1 1 1.7-1.8 1.8 1.8 0 0 1-1.7 1.8Z"/></svg>
+          <span data-i18n="cta.discord">Join the Discord</span>
+        </a>
+      </div>
+      <p class="hero__status"><span class="dot" aria-hidden="true"></span><span data-i18n="hero.status">In development · PC (Steam)</span></p>
+    </div>
+  </section>
+
+  <!-- Featured on (add a new <a class="featured__item"> for each outlet or channel) -->
+  <section class="featured" aria-labelledby="featuredTitle">
+    <div class="wrap featured__inner">
+      <p class="featured__label" id="featuredTitle" data-i18n="feat.label">Featured on</p>
+      <div class="featured__list">
+        <a class="featured__item" href="https://automaton-media.com/articles/newsjp/20261006-471999/" target="_blank" rel="noopener">
+          <span class="featured__name">AUTOMATON</span>
+          <span class="featured__meta" data-i18n="feat.automaton">Japan · Oct 2026</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Gameplay -->
+  <section class="section gameplay">
+    <div class="wrap gameplay__grid">
+      <div class="gameplay__text">
+        <p class="eyebrow" data-i18n="play.eyebrow">At the florist bench</p>
+        <h2 data-i18n="play.title">Grow. Wrap. Sell.</h2>
+        <p data-i18n="play.body">Every bouquet starts as a seed in your garden. When it blooms, bring it to your bench, pick the stems, cut the paper and tie the ribbon. Then put it on the shelf and see who walks in.</p>
+      </div>
+      <figure class="glass-frame gameplay__video">
+        <video src="assets/video/wrap.mp4" poster="assets/img/wrap-poster.jpg" autoplay muted loop playsinline preload="metadata" aria-label="Wrapping a bouquet of red roses in Panda Flora"></video>
+      </figure>
+    </div>
+  </section>
+
+  <!-- Bouquet of the Day -->
+  <section class="section bouquets" id="bouquets">
+    <div class="wrap section__head">
+      <p class="eyebrow" data-i18n="botd.eyebrow">Bouquet of the Day</p>
+      <h2 data-i18n="botd.title">A new bouquet, every day</h2>
+      <p class="section__lead" data-i18n="botd.lead">I wrap a new bouquet in the game each day and share it. This is the collection so far.</p>
+    </div>
+    <div class="marquee" id="marquee" aria-label="Bouquet of the Day gallery">
+      <div class="marquee__track" id="marqueeTrack"></div>
+    </div>
+    <p class="bouquets__follow wrap">
+      <span data-i18n="botd.follow">New ones go up daily on</span>
+      <a href="https://x.com/PandaFloraGame" target="_blank" rel="noopener">X</a> ·
+      <a href="https://www.instagram.com/pandafloragame/" target="_blank" rel="noopener">Instagram</a> ·
+      <a href="https://www.tiktok.com/@pandafloragame" target="_blank" rel="noopener">TikTok</a> ·
+      <a href="https://discord.gg/ZaYYqCMU4R" target="_blank" rel="noopener">Discord</a>
+    </p>
+  </section>
+
+  <!-- Features -->
+  <section class="section features" id="features">
+    <div class="wrap">
+      <article class="feature">
+        <figure class="feature__img glass-frame"><img src="assets/img/shots/garden.jpg?v=2" alt="A raised garden bed with tulips and daisies sprouting" loading="lazy" width="1600" height="900"></figure>
+        <div class="feature__text">
+          <span class="feature__num">01</span>
+          <h3 data-i18n="f2.title">Grow your garden</h3>
+          <p data-i18n="f2.body">Plant seeds and watch them go from sprout to bloom. Unlock 45 flowers across 15 shop levels, from tulips and roses to peonies and dahlias.</p>
+        </div>
+      </article>
+      <article class="feature feature--flip">
+        <figure class="feature__img glass-frame"><img src="assets/img/shots/shop.jpg?v=2" alt="Inside the flower shop, with stocked shelves, display tables and the till" loading="lazy" width="1600" height="900"></figure>
+        <div class="feature__text">
+          <span class="feature__num">02</span>
+          <h3 data-i18n="f3.title">Run your shop</h3>
+          <p data-i18n="f3.body">Stock the shelves, serve customers who each want something different, ship online orders and decorate the place your way.</p>
+        </div>
+      </article>
+      <article class="feature">
+        <figure class="feature__img glass-frame"><img src="assets/img/shots/wrap-day9.jpg" alt="Arranging red and white roses with golden wheat in black wrapping paper" loading="lazy" width="1600" height="900"></figure>
+        <div class="feature__text">
+          <span class="feature__num">03</span>
+          <h3 data-i18n="f1.title">Wrap it by hand</h3>
+          <p data-i18n="f1.body">Pick your stems, cut the paper and tie the ribbon yourself. Paper, vases, pots, boxes or baskets: every bouquet is your own design.</p>
+        </div>
+      </article>
+      <article class="feature feature--flip">
+        <figure class="feature__img glass-frame"><img src="assets/img/shots/album-recipes.jpg" alt="The photo album with recipe pages" loading="lazy" width="1600" height="900"></figure>
+        <div class="feature__text">
+          <span class="feature__num">04</span>
+          <h3 data-i18n="f4.title">Fill your photo album</h3>
+          <p data-i18n="f4.body">Snap your favorite bouquets and pin them into a scrapbook. Complete 45 recipe pages, then arrange your best shots on free pages.</p>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!-- Wishlist band -->
+  <section class="section cta-band">
+    <div class="wrap">
+      <div class="cta-band__card glass">
+        <div class="cta-band__text">
+          <h2 data-i18n="band.title">Wishlisting helps more than you'd think</h2>
+          <p data-i18n="band.body">For a game made by one person, every wishlist counts. Add Panda Flora on Steam and you'll get a note the day it launches.</p>
+        </div>
+        <div class="cta-band__widget">
+          <iframe src="https://store.steampowered.com/widget/5337790/" title="Panda Flora on Steam" loading="lazy"></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Dev note -->
+  <section class="section devnote">
+    <div class="wrap devnote__inner">
+      <img src="assets/img/apple-touch-icon.png" alt="" width="88" height="88" class="devnote__icon">
+      <div>
+        <h2 data-i18n="dev.title">Made by one person</h2>
+        <p data-i18n="dev.body">Panda Flora is built by a solo developer, one flower at a time. Devlogs, early looks and the daily bouquet all land on Discord first.</p>
+        <a class="link-arrow" href="https://discord.gg/ZaYYqCMU4R" target="_blank" rel="noopener" data-i18n="dev.link">Come say hi on Discord</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap footer__inner">
+    <div class="footer__brand">
+      <img src="assets/img/favicon.png" alt="" width="28" height="28">
+      <span>Panda Flora</span>
+    </div>
+    <nav class="footer__links" aria-label="Social">
+      <a class="js-steam" href="https://store.steampowered.com/app/5337790/Panda_Flora/">Steam</a>
+      <a href="https://discord.gg/ZaYYqCMU4R" target="_blank" rel="noopener">Discord</a>
+      <a href="https://x.com/PandaFloraGame" target="_blank" rel="noopener">X</a>
+      <a href="https://www.instagram.com/pandafloragame/" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.tiktok.com/@pandafloragame" target="_blank" rel="noopener">TikTok</a>
+      <a href="https://www.youtube.com/@PandaFloraGame" target="_blank" rel="noopener">YouTube</a>
+    </nav>
+    <div class="footer__meta">
+      <a href="press.html" data-i18n="foot.press">Press kit</a>
+      <a href="mailto:pandafloragame@gmail.com">pandafloragame@gmail.com</a>
+      <span>© 2026 Panda Flora</span>
+    </div>
+  </div>
+</footer>
+
+<div class="lightbox" id="lightbox" hidden>
+  <button class="lightbox__close" type="button" aria-label="Close">×</button>
+  <figure>
+    <img id="lightboxImg" alt="">
+    <figcaption id="lightboxCap"></figcaption>
+  </figure>
+</div>
+
+<script src="assets/js/bouquets.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+PANDA FLORA SITESI
+
+Yeni "Bouquet of the Day" eklemek:
+1. Gorseli assets/img/bouquets/ klasorune at (or. day10.jpg, ~720px genislik yeterli)
+2. assets/js/bouquets.js dosyasina bir satir ekle:
+   { day: 10, img: "day10.jpg", en: "Ingilizce aciklama", ja: "Japonca aciklama" },
+Vitrin otomatik guncellenir (en yeni en basta).
+
+Yerelde onizleme: site klasorunde  python -m http.server 8090  -> http://localhost:8090
+
+Yayin: GitHub Pages (ucretsiz). site/ klasorunun icerigi bir repoya yuklenir, Settings > Pages acilir.
+
+"Featured on" seridine yeni basin/kanal eklemek:
+index.html icinde <div class="featured__list"> altina bir satir daha kopyala:
+  <a class="featured__item" href="LINK" target="_blank" rel="noopener"><span class="featured__name">ISIM</span><span class="featured__meta">Ulke · Ay Yil</span></a>
+press.html > Coverage listesine de ekle.
