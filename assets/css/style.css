@@ -130,6 +130,8 @@ html[lang="ja"] .eyebrow { letter-spacing: .06em; }
 .nav__actions { display: flex; align-items: center; gap: 10px; }
 .lang { white-space: nowrap; font: inherit; font-size: .85rem; font-weight: 700; color: var(--ink-soft); background: var(--glass); border: 1px solid var(--glass-border); border-radius: 999px; padding: .45em .9em; cursor: pointer; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); }
 .lang:hover { color: var(--ink); }
+select.lang { appearance: none; -webkit-appearance: none; padding-right: 1.9em; background-image: linear-gradient(45deg, transparent 50%, currentColor 50%), linear-gradient(135deg, currentColor 50%, transparent 50%); background-position: right 1em center, right .7em center; background-size: 5px 5px, 5px 5px; background-repeat: no-repeat; background-color: var(--glass); }
+html[lang="zh-Hant"] { --serif: "Noto Serif TC", "Fraunces", serif; --sans: "Noto Sans TC", "Nunito Sans", sans-serif; }
 
 /* Hero */
 .hero { position: relative; min-height: min(92vh, 860px); display: grid; place-items: center; padding: 110px 16px 70px; overflow: hidden; isolation: isolate; }

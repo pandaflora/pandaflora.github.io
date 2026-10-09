@@ -39,6 +39,80 @@
     "feat.automaton": "日本 · 2026年10月"
   };
 
+  var ZH = {
+      "nav.bouquets": "花束",
+      "nav.features": "特色",
+      "nav.press": "媒體資料",
+      "nav.wishlist": "加入願望清單",
+      "hero.tagline": "第一人稱視角的療癒花店遊戲。",
+      "hero.sub": "親手種花、親手包裝每一束花，經營一間和你一起成長的小花店。",
+      "cta.wishlist": "在 Steam 加入願望清單",
+      "cta.discord": "加入 Discord",
+      "hero.status": "開發中 · PC（Steam）",
+      "play.eyebrow": "在花藝工作台前",
+      "play.title": "種花・包花・賣花。",
+      "play.body": "每一束花都從花園裡的一顆種子開始。花開了就帶到工作台，挑選花材、裁剪包裝紙、繫上緞帶，再擺上架等客人上門。",
+      "botd.eyebrow": "每日花束",
+      "botd.title": "每天一束新花束",
+      "botd.lead": "我每天在遊戲裡包一束新的花束並分享出來。這是目前為止的收藏。",
+      "botd.follow": "每日更新請看：",
+      "f1.title": "親手包裝",
+      "f1.body": "挑選花材、裁剪包裝紙、繫上緞帶，全都由你親手完成。包裝紙、花瓶、花盆、禮盒或花籃，每一束都是你獨一無二的設計。",
+      "f2.title": "打造你的花園",
+      "f2.body": "播下種子，看著它們從嫩芽長到盛開。在 15 個商店等級中解鎖 45 種花，從鬱金香、玫瑰到芍藥和大理花。",
+      "f3.title": "經營你的花店",
+      "f3.body": "把商品擺上架，接待每位需求不同的客人，寄送網路訂單，還能隨心佈置你的店。",
+      "f4.title": "填滿你的相簿",
+      "f4.body": "拍下你最喜歡的花束，貼進剪貼簿。完成 45 頁花束配方，再把得意之作自由擺在空白頁上。",
+      "band.title": "加入願望清單，就是最大的支持",
+      "band.body": "對一個人開發的遊戲來說，每一個願望清單都很重要。在 Steam 加入願望清單，發售當天就會收到通知。",
+      "dev.title": "一個人開發",
+      "dev.body": "Panda Flora 是由獨立開發者一個人製作的遊戲，一朵花一朵花地慢慢完成。開發日誌、搶先畫面和每日花束都會先在 Discord 分享。",
+      "dev.link": "來 Discord 打聲招呼吧",
+      "foot.press": "媒體資料",
+      "sc.release": "發售日：未定",
+      "feat.label": "媒體報導",
+      "feat.automaton": "日本 · 2026年10月"
+  };
+
+  var TR = {
+      "nav.bouquets": "Buketler",
+      "nav.features": "Özellikler",
+      "nav.press": "Basın",
+      "nav.wishlist": "İstek listesi",
+      "hero.tagline": "Birinci şahıs, sıcacık bir çiçekçi oyunu.",
+      "hero.sub": "Kendi çiçeklerini yetiştir, her buketi elinle sar ve seninle birlikte büyüyen küçük bir dükkân işlet.",
+      "cta.wishlist": "Steam'de istek listene ekle",
+      "cta.discord": "Discord'a katıl",
+      "hero.status": "Geliştiriliyor · PC (Steam)",
+      "play.eyebrow": "Çiçekçi tezgâhında",
+      "play.title": "Yetiştir. Sar. Sat.",
+      "play.body": "Her buket bahçendeki bir tohumla başlar. Çiçek açınca tezgâha getir, çiçekleri seç, kâğıdı kes, kurdeleyi bağla. Sonra rafa koy ve kimin geleceğini bekle.",
+      "botd.eyebrow": "Günün Buketi",
+      "botd.title": "Her gün yeni bir buket",
+      "botd.lead": "Her gün oyunda yeni bir buket sarıp paylaşıyorum. Şimdiye kadarki koleksiyon burada.",
+      "botd.follow": "Yenileri her gün burada:",
+      "f1.title": "Elinle sar",
+      "f1.body": "Çiçekleri seç, kâğıdı kes, kurdeleyi kendin bağla. Kâğıt, vazo, saksı, kutu ya da sepet: her buket senin tasarımın.",
+      "f2.title": "Bahçeni büyüt",
+      "f2.body": "Tohum ek ve filizden çiçeğe büyümelerini izle. Lale ve gülden şakayık ve yıldız çiçeğine, 15 dükkân seviyesinde 45 çiçeğin kilidini aç.",
+      "f3.title": "Dükkânını işlet",
+      "f3.body": "Rafları doldur, her biri farklı şey isteyen müşterilere hizmet et, internet siparişlerini gönder ve dükkânı istediğin gibi dekore et.",
+      "f4.title": "Fotoğraf albümünü doldur",
+      "f4.body": "En sevdiğin buketlerin fotoğrafını çek, albüme yapıştır. 45 tarif sayfasını tamamla, en güzel karelerini serbest sayfalara diz.",
+      "band.title": "İstek listesi düşündüğünden çok daha fazla yardım eder",
+      "band.body": "Tek kişinin yaptığı bir oyun için her istek listesi çok değerli. Panda Flora'yı Steam'de istek listene ekle, çıktığı gün haberin olsun.",
+      "dev.title": "Tek kişi yapıyor",
+      "dev.body": "Panda Flora'yı tek bir geliştirici, çiçek çiçek yapıyor. Geliştirme notları, ilk görüntüler ve günün buketi önce Discord'a geliyor.",
+      "dev.link": "Discord'a gel, merhaba de",
+      "foot.press": "Basın kiti",
+      "sc.release": "Çıkış tarihi: Duyurulacak",
+      "feat.label": "Yer aldığı yerler",
+      "feat.automaton": "Japonya · Ekim 2026"
+  };
+
+  var DAY = { en: "Bouquet of the Day #", ja: "今日のブーケ #", zh: "每日花束 #", tr: "Günün Buketi #" };
+
   // Steam links with UTM so Steamworks can show site traffic
   document.querySelectorAll(".js-steam").forEach(function (a) {
     a.href = STEAM;
@@ -49,34 +123,48 @@
   // Language
   var EN = {};
   document.querySelectorAll("[data-i18n]").forEach(function (el) { EN[el.dataset.i18n] = el.textContent; });
-  var langBtn = document.getElementById("langToggle");
+  var langSel = document.getElementById("langSelect");
+  var DICTS = { en: EN, ja: JA, zh: ZH, tr: TR };
+  var HTML_LANG = { en: "en", ja: "ja", zh: "zh-Hant", tr: "tr" };
   function getStored() { try { return localStorage.getItem("pf-lang"); } catch (e) { return null; } }
   function setStored(v) { try { localStorage.setItem("pf-lang", v); } catch (e) {} }
-  var lang = getStored() || ((navigator.language || "").toLowerCase().indexOf("ja") === 0 ? "ja" : "en");
+  function detect() {
+    var langs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || "en"];
+    for (var i = 0; i < langs.length; i++) {
+      var n = (langs[i] || "").toLowerCase();
+      if (n.indexOf("ja") === 0) return "ja";
+      if (n === "zh-tw" || n === "zh-hk" || n === "zh-mo" || n.indexOf("zh-hant") === 0) return "zh";
+      if (n.indexOf("tr") === 0) return "tr";
+      if (n.indexOf("en") === 0) return "en";
+    }
+    return "en";
+  }
+  var lang = getStored();
+  if (!DICTS[lang]) lang = detect();
+  function nameOf(b) { return lang !== "en" && b[lang] ? b[lang] : b.en; }
 
   function applyLang(l) {
-    lang = l;
-    document.documentElement.lang = l;
-    var dict = l === "ja" ? JA : EN;
+    lang = DICTS[l] ? l : "en";
+    document.documentElement.lang = HTML_LANG[lang];
+    var dict = DICTS[lang];
     document.querySelectorAll("[data-i18n]").forEach(function (el) {
-      var t = dict[el.dataset.i18n];
+      var t = dict[el.dataset.i18n] || EN[el.dataset.i18n];
       if (t) el.textContent = t;
     });
-    if (langBtn) langBtn.textContent = l === "ja" ? "English" : "日本語";
+    if (langSel) langSel.value = lang;
     renderMarquee();
   }
-  if (langBtn) langBtn.addEventListener("click", function () {
-    var next = lang === "ja" ? "en" : "ja";
-    setStored(next);
-    applyLang(next);
+  if (langSel) langSel.addEventListener("change", function () {
+    setStored(langSel.value);
+    applyLang(langSel.value);
   });
 
   // Bouquet marquee
   var track = document.getElementById("marqueeTrack");
   var tilts = [-2.5, 1.5, -1, 2.2, -1.8, 1, -2.2, 1.8];
   function card(b, i, dup) {
-    var name = lang === "ja" ? b.ja : b.en;
-    var label = lang === "ja" ? "Day " + b.day : "Day " + b.day;
+    var name = nameOf(b);
+    var label = "Day " + b.day;
     var el = document.createElement("button");
     el.type = "button";
     el.className = "polaroid";
@@ -110,11 +198,11 @@
     if (!lb) return;
     lastFocus = document.activeElement;
     lbImg.src = "assets/img/bouquets/" + b.img;
-    lbImg.alt = lang === "ja" ? b.ja : b.en;
+    lbImg.alt = nameOf(b);
     lbCap.innerHTML = "";
-    lbCap.appendChild(document.createTextNode((lang === "ja" ? "今日のブーケ #" : "Bouquet of the Day #") + b.day));
+    lbCap.appendChild(document.createTextNode(DAY[lang] + b.day));
     var s = document.createElement("small");
-    s.textContent = lang === "ja" ? b.ja : b.en;
+    s.textContent = nameOf(b);
     lbCap.appendChild(s);
     lb.hidden = false;
     lb.querySelector(".lightbox__close").focus();
