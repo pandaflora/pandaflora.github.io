@@ -34,6 +34,7 @@
     "dev.body": "Panda Floraは個人開発のゲームです。花を一つずつ増やしながら作っています。開発日誌や先行公開、毎日のブーケはまずDiscordで。",
     "dev.link": "Discordで気軽に声をかけてください",
     "foot.press": "プレスキット",
+    "sc.release": "発売日：未定",
     "feat.label": "掲載メディア",
     "feat.automaton": "日本 · 2026年10月"
   };
