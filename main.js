@@ -34,6 +34,7 @@
     "dev.body": "Panda Floraは個人開発のゲームです。花を一つずつ増やしながら作っています。開発日誌や先行公開、毎日のブーケはまずDiscordで。",
     "dev.link": "Discordで気軽に声をかけてください",
     "foot.press": "プレスキット",
+    "sc.release": "発売日：未定",
     "feat.label": "掲載メディア",
     "feat.automaton": "日本 · 2026年10月"
   };
@@ -62,8 +63,6 @@
       if (t) el.textContent = t;
     });
     if (langBtn) langBtn.textContent = l === "ja" ? "English" : "日本語";
-    var w = document.querySelector(".cta-band__widget iframe");
-    if (w) { var u = "https://store.steampowered.com/widget/5337790/?l=" + (l === "ja" ? "japanese" : "english"); if (w.src !== u) w.src = u; }
     renderMarquee();
   }
   if (langBtn) langBtn.addEventListener("click", function () {
