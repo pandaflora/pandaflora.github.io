@@ -199,6 +199,7 @@ html[lang="ja"] .featured__label { letter-spacing: .06em; }
 .steamcard img { width: 230px; height: auto; border-radius: 10px; flex: 0 0 auto; }
 .steamcard__body { display: flex; flex-direction: column; gap: 12px; align-items: flex-start; }
 .steamcard__meta { font-size: .88rem; color: var(--ink-soft); }
+.steamcard__btn { white-space: nowrap; padding-inline: 1.3em; }
 
 /* Dev note */
 .devnote { padding-top: 0; }
