@@ -22,7 +22,7 @@ window.I18N = {
       "dev.title": "ひとりで作っています",
       "dev.body": "Panda Floraは個人開発のゲームです。花を一つずつ増やしながら作っています。開発日誌や先行公開、毎日のブーケはまずDiscordで。",
       "dev.link": "Discordで気軽に声をかけてください", "foot.press": "プレスキット", "sc.release": "発売日：未定",
-      "feat.label": "掲載メディア", "feat.automaton": "日本 · 2026年10月"
+      "feat.label": "掲載メディア", "feat.automaton": "日本 · 2026年10月", "feat.gamebase": "台湾 · 2026年10月"
     }
   },
   zh: {
@@ -45,7 +45,7 @@ window.I18N = {
       "dev.title": "一個人開發",
       "dev.body": "Panda Flora 是由獨立開發者一個人製作的遊戲，一朵花一朵花地慢慢完成。開發日誌、搶先畫面和每日花束都會先在 Discord 分享。",
       "dev.link": "來 Discord 打聲招呼吧", "foot.press": "媒體資料", "sc.release": "發售日：未定",
-      "feat.label": "媒體報導", "feat.automaton": "日本 · 2026年10月"
+      "feat.label": "媒體報導", "feat.automaton": "日本 · 2026年10月", "feat.gamebase": "台灣 · 2026年10月"
     }
   },
   zhs: {
@@ -68,7 +68,7 @@ window.I18N = {
       "dev.title": "一个人开发",
       "dev.body": "Panda Flora 是由独立开发者一个人制作的游戏，一朵花一朵花地慢慢完成。开发日志、抢先画面和每日花束都会先在 Discord 分享。",
       "dev.link": "来 Discord 打个招呼吧", "foot.press": "媒体资料", "sc.release": "发售日：待定",
-      "feat.label": "媒体报道", "feat.automaton": "日本 · 2026年10月"
+      "feat.label": "媒体报道", "feat.automaton": "日本 · 2026年10月", "feat.gamebase": "台湾 · 2026年10月"
     },
     b: ["柔和粉色的芍药与康乃馨", "七朵红玫瑰配满天星", "橙色非洲菊与红色银莲花，牛皮纸包装", "纯白花束：栀子花、马蹄莲与雏菊", "紫色洋桔梗配栀子花与薰衣草", "向日葵与一只小熊", "蜜桃色毛茛与山茶花", "橙色非洲菊与蓝色矢车菊", "红白玫瑰配金色麦穗", "蜜桃夕阳：橙色玫瑰、毛茛与百日菊配蒲苇"]
   },
@@ -92,7 +92,7 @@ window.I18N = {
       "dev.title": "한 사람이 만들고 있어요",
       "dev.body": "Panda Flora는 1인 개발자가 꽃 한 송이씩 만들어 가는 게임입니다. 개발 일지, 미리보기, 오늘의 꽃다발은 Discord에 가장 먼저 올라와요.",
       "dev.link": "Discord에 놀러 오세요", "foot.press": "보도자료", "sc.release": "출시일: 미정",
-      "feat.label": "소개된 곳", "feat.automaton": "일본 · 2026년 10월"
+      "feat.label": "소개된 곳", "feat.automaton": "일본 · 2026년 10월", "feat.gamebase": "대만 · 2026년 10월"
     },
     b: ["부드러운 분홍색 작약과 카네이션", "안개꽃을 곁들인 빨간 장미 일곱 송이", "크라프트지로 감싼 주황 거베라와 빨간 아네모네", "순백의 치자꽃, 칼라, 데이지", "보라색 리시안셔스와 치자꽃, 라벤더", "해바라기와 작은 곰인형", "복숭아색 라넌큘러스와 동백꽃", "주황 거베라와 파란 수레국화", "빨간 장미와 흰 장미, 황금빛 밀", "피치 선셋: 주황 장미, 라넌큘러스, 백일홍과 팜파스"]
   },
@@ -116,7 +116,7 @@ window.I18N = {
       "dev.title": "Créé par une seule personne",
       "dev.body": "Panda Flora est développé par un développeur solo, une fleur à la fois. Journaux de développement, avant-premières et bouquet du jour arrivent d'abord sur Discord.",
       "dev.link": "Venez dire bonjour sur Discord", "foot.press": "Kit presse", "sc.release": "Date de sortie : à venir",
-      "feat.label": "On en parle", "feat.automaton": "Japon · oct. 2026"
+      "feat.label": "On en parle", "feat.automaton": "Japon · oct. 2026", "feat.gamebase": "Taïwan · oct. 2026"
     },
     b: ["Pivoines et œillets rose tendre", "Sept roses rouges et gypsophile", "Gerberas orange et anémones rouges en papier kraft", "Tout blanc : gardénias, callas et marguerites", "Lisianthus violets, gardénias et lavande", "Tournesols et un petit ours en peluche", "Renoncules pêche et camélias", "Gerberas orange et bleuets", "Roses rouges et blanches, blé doré", "Coucher de soleil pêche : roses orange, renoncules et zinnias avec pampa"]
   },
@@ -140,7 +140,7 @@ window.I18N = {
       "dev.title": "Von einer Person gemacht",
       "dev.body": "Panda Flora wird von einem Solo-Entwickler gebaut, Blume für Blume. Devlogs, erste Einblicke und der Strauß des Tages erscheinen zuerst auf Discord.",
       "dev.link": "Sag hallo auf Discord", "foot.press": "Pressekit", "sc.release": "Erscheinungsdatum: wird bekannt gegeben",
-      "feat.label": "Bekannt aus", "feat.automaton": "Japan · Okt. 2026"
+      "feat.label": "Bekannt aus", "feat.automaton": "Japan · Okt. 2026", "feat.gamebase": "Taiwan · Okt. 2026"
     },
     b: ["Zartrosa Pfingstrosen und Nelken", "Sieben rote Rosen mit Schleierkraut", "Orange Gerbera und rote Anemonen in Kraftpapier", "Ganz in Weiß: Gardenien, Calla und Gänseblümchen", "Lila Lisianthus mit Gardenien und Lavendel", "Sonnenblumen mit einem kleinen Teddybären", "Pfirsichfarbene Ranunkeln und Kamelien", "Orange Gerbera und blaue Kornblumen", "Rote und weiße Rosen mit goldenem Weizen", "Pfirsich-Sonnenuntergang: orange Rosen, Ranunkeln und Zinnien mit Pampasgras"]
   },
@@ -164,7 +164,7 @@ window.I18N = {
       "dev.title": "Hecho por una sola persona",
       "dev.body": "Panda Flora lo crea un desarrollador en solitario, flor a flor. Los diarios de desarrollo, los adelantos y el ramo del día llegan primero a Discord.",
       "dev.link": "Ven a saludar a Discord", "foot.press": "Kit de prensa", "sc.release": "Fecha de lanzamiento: por anunciar",
-      "feat.label": "Aparece en", "feat.automaton": "Japón · oct. 2026"
+      "feat.label": "Aparece en", "feat.automaton": "Japón · oct. 2026", "feat.gamebase": "Taiwán · oct. 2026"
     },
     b: ["Peonías y claveles en rosa suave", "Siete rosas rojas con paniculata", "Gerberas naranjas y anémonas rojas en papel kraft", "Todo blanco: gardenias, calas y margaritas", "Lisianthus morado con gardenias y lavanda", "Girasoles con un osito de peluche", "Ranúnculos melocotón y camelias", "Gerberas naranjas y acianos azules", "Rosas rojas y blancas con trigo dorado", "Atardecer melocotón: rosas naranjas, ranúnculos y zinnias con pampa"]
   },
@@ -188,7 +188,7 @@ window.I18N = {
       "dev.title": "Fatto da una sola persona",
       "dev.body": "Panda Flora è sviluppato da uno sviluppatore indipendente, un fiore alla volta. Diari di sviluppo, anteprime e il bouquet del giorno arrivano prima su Discord.",
       "dev.link": "Passa a salutare su Discord", "foot.press": "Kit stampa", "sc.release": "Data di uscita: da annunciare",
-      "feat.label": "Ne parlano", "feat.automaton": "Giappone · ott. 2026"
+      "feat.label": "Ne parlano", "feat.automaton": "Giappone · ott. 2026", "feat.gamebase": "Taiwan · ott. 2026"
     },
     b: ["Peonie e garofani rosa tenue", "Sette rose rosse con gypsophila", "Gerbere arancioni e anemoni rossi in carta kraft", "Tutto bianco: gardenie, calle e margherite", "Lisianthus viola con gardenie e lavanda", "Girasoli con un piccolo orsacchiotto", "Ranuncoli color pesca e camelie", "Gerbere arancioni e fiordalisi blu", "Rose rosse e bianche con grano dorato", "Tramonto pesca: rose arancioni, ranuncoli e zinnie con pampas"]
   },
@@ -212,7 +212,7 @@ window.I18N = {
       "dev.title": "Feito por uma só pessoa",
       "dev.body": "Panda Flora é feito por um programador independente, uma flor de cada vez. Diários de desenvolvimento, antevisões e o ramo do dia chegam primeiro ao Discord.",
       "dev.link": "Vem dizer olá no Discord", "foot.press": "Kit de imprensa", "sc.release": "Data de lançamento: a anunciar",
-      "feat.label": "Em destaque em", "feat.automaton": "Japão · out. 2026"
+      "feat.label": "Em destaque em", "feat.automaton": "Japão · out. 2026", "feat.gamebase": "Taiwan · out. 2026"
     },
     b: ["Peónias e cravos rosa-suave", "Sete rosas vermelhas com gipsófila", "Gerberas laranja e anémonas vermelhas em papel kraft", "Tudo branco: gardénias, jarros e margaridas", "Lisianto roxo com gardénias e lavanda", "Girassóis com um pequeno urso de peluche", "Ranúnculos cor de pêssego e camélias", "Gerberas laranja e centáureas azuis", "Rosas vermelhas e brancas com trigo dourado", "Pôr do sol pêssego: rosas laranja, ranúnculos e zínias com erva-das-pampas"]
   },
@@ -236,7 +236,7 @@ window.I18N = {
       "dev.title": "Gemaakt door één persoon",
       "dev.body": "Panda Flora wordt gemaakt door een solo-ontwikkelaar, bloem voor bloem. Devlogs, previews en het boeket van de dag verschijnen eerst op Discord.",
       "dev.link": "Kom gedag zeggen op Discord", "foot.press": "Perskit", "sc.release": "Releasedatum: volgt nog",
-      "feat.label": "Bekend van", "feat.automaton": "Japan · okt. 2026"
+      "feat.label": "Bekend van", "feat.automaton": "Japan · okt. 2026", "feat.gamebase": "Taiwan · okt. 2026"
     },
     b: ["Zachtroze pioenen en anjers", "Zeven rode rozen met gipskruid", "Oranje gerbera's en rode anemonen in kraftpapier", "Helemaal wit: gardenia's, calla's en madeliefjes", "Paarse lisianthus met gardenia's en lavendel", "Zonnebloemen met een kleine teddybeer", "Perzikkleurige ranonkels en camelia's", "Oranje gerbera's en blauwe korenbloemen", "Rode en witte rozen met gouden tarwe", "Perzik zonsondergang: oranje rozen, ranonkels en zinnia's met pampasgras"]
   },
@@ -260,7 +260,7 @@ window.I18N = {
       "dev.title": "Tworzone przez jedną osobę",
       "dev.body": "Panda Flora tworzy jeden niezależny twórca, kwiatek po kwiatku. Dzienniki deweloperskie, zapowiedzi i bukiet dnia trafiają najpierw na Discorda.",
       "dev.link": "Przywitaj się na Discordzie", "foot.press": "Materiały prasowe", "sc.release": "Data premiery: zostanie ogłoszona",
-      "feat.label": "Pisali o nas", "feat.automaton": "Japonia · paź. 2026"
+      "feat.label": "Pisali o nas", "feat.automaton": "Japonia · paź. 2026", "feat.gamebase": "Tajwan · paź. 2026"
     },
     b: ["Delikatnie różowe piwonie i goździki", "Siedem czerwonych róż z gipsówką", "Pomarańczowe gerbery i czerwone zawilce w papierze kraft", "Cały biały: gardenie, kalie i stokrotki", "Fioletowa eustoma z gardeniami i lawendą", "Słoneczniki z małym misiem", "Brzoskwiniowe jaskry i kamelie", "Pomarańczowe gerbery i niebieskie chabry", "Czerwone i białe róże ze złotą pszenicą", "Brzoskwiniowy zachód: pomarańczowe róże, jaskry i cynie z trawą pampasową"]
   },
@@ -284,7 +284,7 @@ window.I18N = {
       "dev.title": "Её делает один человек",
       "dev.body": "Panda Flora создаёт инди-разработчик-одиночка, цветок за цветком. Девлоги, первые кадры и букет дня сначала появляются в Discord.",
       "dev.link": "Заходите поздороваться в Discord", "foot.press": "Пресс-кит", "sc.release": "Дата выхода: будет объявлена",
-      "feat.label": "О нас писали", "feat.automaton": "Япония · окт. 2026"
+      "feat.label": "О нас писали", "feat.automaton": "Япония · окт. 2026", "feat.gamebase": "Тайвань · окт. 2026"
     },
     b: ["Нежно-розовые пионы и гвоздики", "Семь красных роз с гипсофилой", "Оранжевые герберы и красные анемоны в крафт-бумаге", "Всё белое: гардении, каллы и ромашки", "Фиолетовый эустома с гардениями и лавандой", "Подсолнухи с маленьким плюшевым мишкой", "Персиковые ранункулюсы и камелии", "Оранжевые герберы и синие васильки", "Красные и белые розы с золотой пшеницей", "Персиковый закат: оранжевые розы, ранункулюсы и цинии с пампасной травой"]
   },
@@ -308,7 +308,7 @@ window.I18N = {
       "dev.title": "Її створює одна людина",
       "dev.body": "Panda Flora створює інді-розробник самотужки, квітку за квіткою. Девлоги, перші кадри й букет дня спершу з'являються в Discord.",
       "dev.link": "Заходьте привітатися в Discord", "foot.press": "Прес-кіт", "sc.release": "Дата виходу: буде оголошено",
-      "feat.label": "Про нас писали", "feat.automaton": "Японія · жовт. 2026"
+      "feat.label": "Про нас писали", "feat.automaton": "Японія · жовт. 2026", "feat.gamebase": "Тайвань · жовт. 2026"
     },
     b: ["Ніжно-рожеві півонії та гвоздики", "Сім червоних троянд із гіпсофілою", "Помаранчеві гербери й червоні анемони в крафт-папері", "Усе біле: гарденії, кали та ромашки", "Фіолетова еустома з гарденіями та лавандою", "Соняшники з маленьким плюшевим ведмедиком", "Персикові жовтець і камелії", "Помаранчеві гербери та сині волошки", "Червоні й білі троянди із золотою пшеницею", "Персиковий захід: помаранчеві троянди, жовтець і цинії з пампасною травою"]
   },
@@ -332,7 +332,7 @@ window.I18N = {
       "dev.title": "Το φτιάχνει ένας άνθρωπος",
       "dev.body": "Το Panda Flora το φτιάχνει ένας ανεξάρτητος δημιουργός, λουλούδι λουλούδι. Ημερολόγια ανάπτυξης, πρώτες ματιές και η ανθοδέσμη της ημέρας εμφανίζονται πρώτα στο Discord.",
       "dev.link": "Πέρασε να πεις ένα γεια στο Discord", "foot.press": "Υλικό τύπου", "sc.release": "Ημερομηνία κυκλοφορίας: θα ανακοινωθεί",
-      "feat.label": "Έγραψαν για εμάς", "feat.automaton": "Ιαπωνία · Οκτ. 2026"
+      "feat.label": "Έγραψαν για εμάς", "feat.automaton": "Ιαπωνία · Οκτ. 2026", "feat.gamebase": "Ταϊβάν · Οκτ. 2026"
     },
     b: ["Απαλές ροζ παιώνιες και γαρίφαλα", "Επτά κόκκινα τριαντάφυλλα με γυψοφίλη", "Πορτοκαλί ζέρμπερες και κόκκινες ανεμώνες σε χαρτί κραφτ", "Ολόλευκο: γαρδένιες, κάλες και μαργαρίτες", "Μωβ λυσίανθος με γαρδένιες και λεβάντα", "Ηλιοτρόπια με ένα μικρό αρκουδάκι", "Ροδακινί νεραγκούλες και καμέλιες", "Πορτοκαλί ζέρμπερες και μπλε κενταύριες", "Κόκκινα και λευκά τριαντάφυλλα με χρυσό σιτάρι", "Ροδακινί ηλιοβασίλεμα: πορτοκαλί τριαντάφυλλα, νεραγκούλες και ζίννιες με πάμπας"]
   },
@@ -356,7 +356,7 @@ window.I18N = {
       "dev.title": "Gjort av en person",
       "dev.body": "Panda Flora byggs av en ensam utvecklare, en blomma i taget. Utvecklingsdagböcker, förhandstittar och dagens bukett kommer först på Discord.",
       "dev.link": "Kom och säg hej på Discord", "foot.press": "Presskit", "sc.release": "Släppdatum: meddelas senare",
-      "feat.label": "Omnämnt av", "feat.automaton": "Japan · okt. 2026"
+      "feat.label": "Omnämnt av", "feat.automaton": "Japan · okt. 2026", "feat.gamebase": "Taiwan · okt. 2026"
     },
     b: ["Mjukt rosa pioner och nejlikor", "Sju röda rosor med brudslöja", "Orange gerbera och röda anemoner i kraftpapper", "Helt vitt: gardenior, kallor och prästkragar", "Lila lisianthus med gardenior och lavendel", "Solrosor med en liten nallebjörn", "Persikofärgade ranunkler och kamelior", "Orange gerbera och blå blåklint", "Röda och vita rosor med gyllene vete", "Persikosolnedgång: orange rosor, ranunkler och zinnior med pampasgräs"]
   },
@@ -380,7 +380,7 @@ window.I18N = {
       "dev.title": "Laget av én person",
       "dev.body": "Panda Flora lages av en soloutvikler, én blomst om gangen. Utviklerlogger, smakebiter og dagens bukett kommer først på Discord.",
       "dev.link": "Kom og si hei på Discord", "foot.press": "Pressekit", "sc.release": "Utgivelsesdato: kunngjøres senere",
-      "feat.label": "Omtalt av", "feat.automaton": "Japan · okt. 2026"
+      "feat.label": "Omtalt av", "feat.automaton": "Japan · okt. 2026", "feat.gamebase": "Taiwan · okt. 2026"
     },
     b: ["Myke rosa peoner og nelliker", "Sju røde roser med brudeslør", "Oransje gerbera og røde anemoner i kraftpapir", "Helt hvitt: gardenia, calla og tusenfryd", "Lilla lisianthus med gardenia og lavendel", "Solsikker med en liten bamse", "Fersken ranunkler og kameliaer", "Oransje gerbera og blå kornblomster", "Røde og hvite roser med gyllen hvete", "Ferskensolnedgang: oransje roser, ranunkler og zinnia med pampasgress"]
   },
@@ -404,7 +404,7 @@ window.I18N = {
       "dev.title": "Tek kişi yapıyor",
       "dev.body": "Panda Flora'yı tek bir geliştirici, çiçek çiçek yapıyor. Geliştirme notları, ilk görüntüler ve günün buketi önce Discord'a geliyor.",
       "dev.link": "Discord'a gel, merhaba de", "foot.press": "Basın kiti", "sc.release": "Çıkış tarihi: Duyurulacak",
-      "feat.label": "Yer aldığı yerler", "feat.automaton": "Japonya · Ekim 2026"
+      "feat.label": "Yer aldığı yerler", "feat.automaton": "Japonya · Ekim 2026", "feat.gamebase": "Tayvan · Ekim 2026"
     }
   },
   ar: {
@@ -427,7 +427,7 @@ window.I18N = {
       "dev.title": "يصنعها شخص واحد",
       "dev.body": "يطوّر Panda Flora مطوّر مستقل وحده، زهرةً تلو الأخرى. سجلات التطوير واللقطات الأولى وباقة اليوم تصل إلى Discord أولًا.",
       "dev.link": "تعال وقل مرحبًا على Discord", "foot.press": "الملف الصحفي", "sc.release": "تاريخ الإصدار: سيُعلن لاحقًا",
-      "feat.label": "ظهرت في", "feat.automaton": "اليابان · أكتوبر 2026"
+      "feat.label": "ظهرت في", "feat.automaton": "اليابان · أكتوبر 2026", "feat.gamebase": "تايوان · أكتوبر 2026"
     },
     b: ["فاوانيا وقرنفل بلون وردي ناعم", "سبع ورود حمراء مع زهرة النفس", "جربيرا برتقالية وشقائق نعمان حمراء في ورق كرافت", "أبيض بالكامل: غاردينيا وكالا وأقحوان", "ليسيانثوس بنفسجي مع غاردينيا ولافندر", "عباد الشمس مع دبدوب صغير", "حوذان بلون الخوخ وكاميليا", "جربيرا برتقالية وقنطريون أزرق", "ورود حمراء وبيضاء مع قمح ذهبي", "غروب الخوخ: ورود برتقالية وحوذان وزينيا مع عشب البامباس"]
   },
@@ -451,7 +451,7 @@ window.I18N = {
       "dev.title": "Bir nəfər hazırlayır",
       "dev.body": "Panda Flora-nı tək bir müstəqil tərtibatçı, gül-gül hazırlayır. Tərtibat qeydləri, ilk görüntülər və günün buketi əvvəlcə Discord-a gəlir.",
       "dev.link": "Discord-a gəl, salam ver", "foot.press": "Mətbuat dəsti", "sc.release": "Çıxış tarixi: elan ediləcək",
-      "feat.label": "Haqqımızda yazanlar", "feat.automaton": "Yaponiya · oktyabr 2026"
+      "feat.label": "Haqqımızda yazanlar", "feat.automaton": "Yaponiya · oktyabr 2026", "feat.gamebase": "Tayvan · oktyabr 2026"
     },
     b: ["Yumşaq çəhrayı pion və qərənfillər", "Gipsofila ilə yeddi qırmızı qızılgül", "Kraft kağızda narıncı gerbera və qırmızı anemonlar", "Tam ağ: qardeniya, zanbaq və çobanyastığı", "Bənövşəyi lizianthus, qardeniya və lavanda", "Günəbaxanlar və kiçik bir oyuncaq ayı", "Şaftalı rəngli ranunkulus və kameliyalar", "Narıncı gerbera və mavi göyçiçəklər", "Qırmızı və ağ qızılgüllər, qızılı buğda", "Şaftalı gün batımı: narıncı qızılgül, ranunkulus və sinniya, pampas otu ilə"]
   }
