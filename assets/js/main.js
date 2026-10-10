@@ -152,12 +152,12 @@
     marquee.addEventListener("pointerdown", function (e) {
       if (e.pointerType !== "mouse") return; // touch scrolls natively
       dragging = true; dragMoved = false; startX = e.clientX; startScroll = marquee.scrollLeft;
-      marquee.classList.add("is-dragging");
     });
     window.addEventListener("pointermove", function (e) {
       if (!dragging) return;
       var dx = e.clientX - startX;
-      if (Math.abs(dx) > 5) dragMoved = true;
+      if (!dragMoved && Math.abs(dx) > 5) { dragMoved = true; marquee.classList.add("is-dragging"); }
+      if (!dragMoved) return;
       marquee.scrollLeft = startScroll - dx;
       wrap();
     });
