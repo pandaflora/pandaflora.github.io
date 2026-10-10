@@ -9,4 +9,5 @@ window.BOUQUETS = [
   { day: 7, img: "day7.jpg", en: "Peach ranunculus and camellias", ja: "ピーチ色のラナンキュラスとツバキ", zh: "蜜桃色毛茛與山茶花", tr: "Şeftali rengi düğünçiçeği ve kamelya" },
   { day: 8, img: "day8.jpg", en: "Orange gerberas and blue cornflowers", ja: "オレンジのガーベラと青いヤグルマギク", zh: "橘色非洲菊與藍色矢車菊", tr: "Turuncu gerbera ve mavi peygamber çiçeği" },
   { day: 9, img: "day9.jpg", en: "Red and white roses with golden wheat", ja: "赤と白のバラと金色の麦", zh: "紅白玫瑰配金色麥穗", tr: "Kırmızı-beyaz güller ve altın başaklar" },
+  { day: 10, img: "day10.jpg", en: "Peach sunset: orange roses, ranunculus and zinnias with pampas", ja: "ピーチサンセット：オレンジのバラ、ラナンキュラス、ジニアとパンパスグラス", zh: "蜜桃夕陽：橘色玫瑰、毛茛與百日菊配蒲葦", tr: "Şeftali gün batımı: turuncu gül, düğünçiçeği ve zinya, pampas otuyla" },
 ];
