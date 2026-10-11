@@ -70,7 +70,7 @@ window.I18N = {
       "dev.link": "来 Discord 打个招呼吧", "foot.press": "媒体资料", "sc.release": "发售日：待定",
       "feat.label": "媒体报道", "feat.automaton": "日本 · 2026年10月", "feat.gamebase": "台湾 · 2026年10月"
     },
-    b: ["柔和粉色的芍药与康乃馨", "七朵红玫瑰配满天星", "橙色非洲菊与红色银莲花，牛皮纸包装", "纯白花束：栀子花、马蹄莲与雏菊", "紫色洋桔梗配栀子花与薰衣草", "向日葵与一只小熊", "蜜桃色毛茛与山茶花", "橙色非洲菊与蓝色矢车菊", "红白玫瑰配金色麦穗", "蜜桃夕阳：橙色玫瑰、毛茛与百日菊配蒲苇"]
+    b: ["柔和粉色的芍药与康乃馨", "七朵红玫瑰配满天星", "橙色非洲菊与红色银莲花，牛皮纸包装", "纯白花束：栀子花、马蹄莲与雏菊", "紫色洋桔梗配栀子花与薰衣草", "向日葵与一只小熊", "蜜桃色毛茛与山茶花", "橙色非洲菊与蓝色矢车菊", "红白玫瑰配金色麦穗", "蜜桃夕阳：橙色玫瑰、毛茛与百日菊配蒲苇", "白玫瑰、蓝色绣球花与矢车菊"]
   },
   ko: {
     name: "한국어", code: "KO", html: "ko", day: "오늘의 꽃다발 #",
@@ -94,7 +94,7 @@ window.I18N = {
       "dev.link": "Discord에 놀러 오세요", "foot.press": "보도자료", "sc.release": "출시일: 미정",
       "feat.label": "소개된 곳", "feat.automaton": "일본 · 2026년 10월", "feat.gamebase": "대만 · 2026년 10월"
     },
-    b: ["부드러운 분홍색 작약과 카네이션", "안개꽃을 곁들인 빨간 장미 일곱 송이", "크라프트지로 감싼 주황 거베라와 빨간 아네모네", "순백의 치자꽃, 칼라, 데이지", "보라색 리시안셔스와 치자꽃, 라벤더", "해바라기와 작은 곰인형", "복숭아색 라넌큘러스와 동백꽃", "주황 거베라와 파란 수레국화", "빨간 장미와 흰 장미, 황금빛 밀", "피치 선셋: 주황 장미, 라넌큘러스, 백일홍과 팜파스"]
+    b: ["부드러운 분홍색 작약과 카네이션", "안개꽃을 곁들인 빨간 장미 일곱 송이", "크라프트지로 감싼 주황 거베라와 빨간 아네모네", "순백의 치자꽃, 칼라, 데이지", "보라색 리시안셔스와 치자꽃, 라벤더", "해바라기와 작은 곰인형", "복숭아색 라넌큘러스와 동백꽃", "주황 거베라와 파란 수레국화", "빨간 장미와 흰 장미, 황금빛 밀", "피치 선셋: 주황 장미, 라넌큘러스, 백일홍과 팜파스", "흰 장미, 파란 수국과 수레국화"]
   },
   fr: {
     name: "Français", code: "FR", html: "fr", day: "Bouquet du jour n°",
@@ -118,7 +118,7 @@ window.I18N = {
       "dev.link": "Venez dire bonjour sur Discord", "foot.press": "Kit presse", "sc.release": "Date de sortie : à venir",
       "feat.label": "On en parle", "feat.automaton": "Japon · oct. 2026", "feat.gamebase": "Taïwan · oct. 2026"
     },
-    b: ["Pivoines et œillets rose tendre", "Sept roses rouges et gypsophile", "Gerberas orange et anémones rouges en papier kraft", "Tout blanc : gardénias, callas et marguerites", "Lisianthus violets, gardénias et lavande", "Tournesols et un petit ours en peluche", "Renoncules pêche et camélias", "Gerberas orange et bleuets", "Roses rouges et blanches, blé doré", "Coucher de soleil pêche : roses orange, renoncules et zinnias avec pampa"]
+    b: ["Pivoines et œillets rose tendre", "Sept roses rouges et gypsophile", "Gerberas orange et anémones rouges en papier kraft", "Tout blanc : gardénias, callas et marguerites", "Lisianthus violets, gardénias et lavande", "Tournesols et un petit ours en peluche", "Renoncules pêche et camélias", "Gerberas orange et bleuets", "Roses rouges et blanches, blé doré", "Coucher de soleil pêche : roses orange, renoncules et zinnias avec pampa", "Roses blanches, hortensias bleus et bleuets"]
   },
   de: {
     name: "Deutsch", code: "DE", html: "de", day: "Strauß des Tages #",
@@ -142,7 +142,7 @@ window.I18N = {
       "dev.link": "Sag hallo auf Discord", "foot.press": "Pressekit", "sc.release": "Erscheinungsdatum: wird bekannt gegeben",
       "feat.label": "Bekannt aus", "feat.automaton": "Japan · Okt. 2026", "feat.gamebase": "Taiwan · Okt. 2026"
     },
-    b: ["Zartrosa Pfingstrosen und Nelken", "Sieben rote Rosen mit Schleierkraut", "Orange Gerbera und rote Anemonen in Kraftpapier", "Ganz in Weiß: Gardenien, Calla und Gänseblümchen", "Lila Lisianthus mit Gardenien und Lavendel", "Sonnenblumen mit einem kleinen Teddybären", "Pfirsichfarbene Ranunkeln und Kamelien", "Orange Gerbera und blaue Kornblumen", "Rote und weiße Rosen mit goldenem Weizen", "Pfirsich-Sonnenuntergang: orange Rosen, Ranunkeln und Zinnien mit Pampasgras"]
+    b: ["Zartrosa Pfingstrosen und Nelken", "Sieben rote Rosen mit Schleierkraut", "Orange Gerbera und rote Anemonen in Kraftpapier", "Ganz in Weiß: Gardenien, Calla und Gänseblümchen", "Lila Lisianthus mit Gardenien und Lavendel", "Sonnenblumen mit einem kleinen Teddybären", "Pfirsichfarbene Ranunkeln und Kamelien", "Orange Gerbera und blaue Kornblumen", "Rote und weiße Rosen mit goldenem Weizen", "Pfirsich-Sonnenuntergang: orange Rosen, Ranunkeln und Zinnien mit Pampasgras", "Weiße Rosen, blaue Hortensien und Kornblumen"]
   },
   es: {
     name: "Español", code: "ES", html: "es", day: "Ramo del día n.º ",
@@ -166,7 +166,7 @@ window.I18N = {
       "dev.link": "Ven a saludar a Discord", "foot.press": "Kit de prensa", "sc.release": "Fecha de lanzamiento: por anunciar",
       "feat.label": "Aparece en", "feat.automaton": "Japón · oct. 2026", "feat.gamebase": "Taiwán · oct. 2026"
     },
-    b: ["Peonías y claveles en rosa suave", "Siete rosas rojas con paniculata", "Gerberas naranjas y anémonas rojas en papel kraft", "Todo blanco: gardenias, calas y margaritas", "Lisianthus morado con gardenias y lavanda", "Girasoles con un osito de peluche", "Ranúnculos melocotón y camelias", "Gerberas naranjas y acianos azules", "Rosas rojas y blancas con trigo dorado", "Atardecer melocotón: rosas naranjas, ranúnculos y zinnias con pampa"]
+    b: ["Peonías y claveles en rosa suave", "Siete rosas rojas con paniculata", "Gerberas naranjas y anémonas rojas en papel kraft", "Todo blanco: gardenias, calas y margaritas", "Lisianthus morado con gardenias y lavanda", "Girasoles con un osito de peluche", "Ranúnculos melocotón y camelias", "Gerberas naranjas y acianos azules", "Rosas rojas y blancas con trigo dorado", "Atardecer melocotón: rosas naranjas, ranúnculos y zinnias con pampa", "Rosas blancas, hortensias azules y acianos"]
   },
   it: {
     name: "Italiano", code: "IT", html: "it", day: "Bouquet del giorno n. ",
@@ -190,7 +190,7 @@ window.I18N = {
       "dev.link": "Passa a salutare su Discord", "foot.press": "Kit stampa", "sc.release": "Data di uscita: da annunciare",
       "feat.label": "Ne parlano", "feat.automaton": "Giappone · ott. 2026", "feat.gamebase": "Taiwan · ott. 2026"
     },
-    b: ["Peonie e garofani rosa tenue", "Sette rose rosse con gypsophila", "Gerbere arancioni e anemoni rossi in carta kraft", "Tutto bianco: gardenie, calle e margherite", "Lisianthus viola con gardenie e lavanda", "Girasoli con un piccolo orsacchiotto", "Ranuncoli color pesca e camelie", "Gerbere arancioni e fiordalisi blu", "Rose rosse e bianche con grano dorato", "Tramonto pesca: rose arancioni, ranuncoli e zinnie con pampas"]
+    b: ["Peonie e garofani rosa tenue", "Sette rose rosse con gypsophila", "Gerbere arancioni e anemoni rossi in carta kraft", "Tutto bianco: gardenie, calle e margherite", "Lisianthus viola con gardenie e lavanda", "Girasoli con un piccolo orsacchiotto", "Ranuncoli color pesca e camelie", "Gerbere arancioni e fiordalisi blu", "Rose rosse e bianche con grano dorato", "Tramonto pesca: rose arancioni, ranuncoli e zinnie con pampas", "Rose bianche, ortensie blu e fiordalisi"]
   },
   pt: {
     name: "Português", code: "PT", html: "pt-PT", day: "Ramo do dia n.º ",
@@ -214,7 +214,7 @@ window.I18N = {
       "dev.link": "Vem dizer olá no Discord", "foot.press": "Kit de imprensa", "sc.release": "Data de lançamento: a anunciar",
       "feat.label": "Em destaque em", "feat.automaton": "Japão · out. 2026", "feat.gamebase": "Taiwan · out. 2026"
     },
-    b: ["Peónias e cravos rosa-suave", "Sete rosas vermelhas com gipsófila", "Gerberas laranja e anémonas vermelhas em papel kraft", "Tudo branco: gardénias, jarros e margaridas", "Lisianto roxo com gardénias e lavanda", "Girassóis com um pequeno urso de peluche", "Ranúnculos cor de pêssego e camélias", "Gerberas laranja e centáureas azuis", "Rosas vermelhas e brancas com trigo dourado", "Pôr do sol pêssego: rosas laranja, ranúnculos e zínias com erva-das-pampas"]
+    b: ["Peónias e cravos rosa-suave", "Sete rosas vermelhas com gipsófila", "Gerberas laranja e anémonas vermelhas em papel kraft", "Tudo branco: gardénias, jarros e margaridas", "Lisianto roxo com gardénias e lavanda", "Girassóis com um pequeno urso de peluche", "Ranúnculos cor de pêssego e camélias", "Gerberas laranja e centáureas azuis", "Rosas vermelhas e brancas com trigo dourado", "Pôr do sol pêssego: rosas laranja, ranúnculos e zínias com erva-das-pampas", "Rosas brancas, hortênsias azuis e centáureas"]
   },
   nl: {
     name: "Nederlands", code: "NL", html: "nl", day: "Boeket van de dag #",
@@ -238,7 +238,7 @@ window.I18N = {
       "dev.link": "Kom gedag zeggen op Discord", "foot.press": "Perskit", "sc.release": "Releasedatum: volgt nog",
       "feat.label": "Bekend van", "feat.automaton": "Japan · okt. 2026", "feat.gamebase": "Taiwan · okt. 2026"
     },
-    b: ["Zachtroze pioenen en anjers", "Zeven rode rozen met gipskruid", "Oranje gerbera's en rode anemonen in kraftpapier", "Helemaal wit: gardenia's, calla's en madeliefjes", "Paarse lisianthus met gardenia's en lavendel", "Zonnebloemen met een kleine teddybeer", "Perzikkleurige ranonkels en camelia's", "Oranje gerbera's en blauwe korenbloemen", "Rode en witte rozen met gouden tarwe", "Perzik zonsondergang: oranje rozen, ranonkels en zinnia's met pampasgras"]
+    b: ["Zachtroze pioenen en anjers", "Zeven rode rozen met gipskruid", "Oranje gerbera's en rode anemonen in kraftpapier", "Helemaal wit: gardenia's, calla's en madeliefjes", "Paarse lisianthus met gardenia's en lavendel", "Zonnebloemen met een kleine teddybeer", "Perzikkleurige ranonkels en camelia's", "Oranje gerbera's en blauwe korenbloemen", "Rode en witte rozen met gouden tarwe", "Perzik zonsondergang: oranje rozen, ranonkels en zinnia's met pampasgras", "Witte rozen, blauwe hortensia's en korenbloemen"]
   },
   pl: {
     name: "Polski", code: "PL", html: "pl", day: "Bukiet dnia #",
@@ -262,7 +262,7 @@ window.I18N = {
       "dev.link": "Przywitaj się na Discordzie", "foot.press": "Materiały prasowe", "sc.release": "Data premiery: zostanie ogłoszona",
       "feat.label": "Pisali o nas", "feat.automaton": "Japonia · paź. 2026", "feat.gamebase": "Tajwan · paź. 2026"
     },
-    b: ["Delikatnie różowe piwonie i goździki", "Siedem czerwonych róż z gipsówką", "Pomarańczowe gerbery i czerwone zawilce w papierze kraft", "Cały biały: gardenie, kalie i stokrotki", "Fioletowa eustoma z gardeniami i lawendą", "Słoneczniki z małym misiem", "Brzoskwiniowe jaskry i kamelie", "Pomarańczowe gerbery i niebieskie chabry", "Czerwone i białe róże ze złotą pszenicą", "Brzoskwiniowy zachód: pomarańczowe róże, jaskry i cynie z trawą pampasową"]
+    b: ["Delikatnie różowe piwonie i goździki", "Siedem czerwonych róż z gipsówką", "Pomarańczowe gerbery i czerwone zawilce w papierze kraft", "Cały biały: gardenie, kalie i stokrotki", "Fioletowa eustoma z gardeniami i lawendą", "Słoneczniki z małym misiem", "Brzoskwiniowe jaskry i kamelie", "Pomarańczowe gerbery i niebieskie chabry", "Czerwone i białe róże ze złotą pszenicą", "Brzoskwiniowy zachód: pomarańczowe róże, jaskry i cynie z trawą pampasową", "Białe róże, niebieskie hortensje i chabry"]
   },
   ru: {
     name: "Русский", code: "RU", html: "ru", day: "Букет дня №",
@@ -286,7 +286,7 @@ window.I18N = {
       "dev.link": "Заходите поздороваться в Discord", "foot.press": "Пресс-кит", "sc.release": "Дата выхода: будет объявлена",
       "feat.label": "О нас писали", "feat.automaton": "Япония · окт. 2026", "feat.gamebase": "Тайвань · окт. 2026"
     },
-    b: ["Нежно-розовые пионы и гвоздики", "Семь красных роз с гипсофилой", "Оранжевые герберы и красные анемоны в крафт-бумаге", "Всё белое: гардении, каллы и ромашки", "Фиолетовый эустома с гардениями и лавандой", "Подсолнухи с маленьким плюшевым мишкой", "Персиковые ранункулюсы и камелии", "Оранжевые герберы и синие васильки", "Красные и белые розы с золотой пшеницей", "Персиковый закат: оранжевые розы, ранункулюсы и цинии с пампасной травой"]
+    b: ["Нежно-розовые пионы и гвоздики", "Семь красных роз с гипсофилой", "Оранжевые герберы и красные анемоны в крафт-бумаге", "Всё белое: гардении, каллы и ромашки", "Фиолетовый эустома с гардениями и лавандой", "Подсолнухи с маленьким плюшевым мишкой", "Персиковые ранункулюсы и камелии", "Оранжевые герберы и синие васильки", "Красные и белые розы с золотой пшеницей", "Персиковый закат: оранжевые розы, ранункулюсы и цинии с пампасной травой", "Белые розы, голубые гортензии и васильки"]
   },
   uk: {
     name: "Українська", code: "UA", html: "uk", day: "Букет дня №",
@@ -310,7 +310,7 @@ window.I18N = {
       "dev.link": "Заходьте привітатися в Discord", "foot.press": "Прес-кіт", "sc.release": "Дата виходу: буде оголошено",
       "feat.label": "Про нас писали", "feat.automaton": "Японія · жовт. 2026", "feat.gamebase": "Тайвань · жовт. 2026"
     },
-    b: ["Ніжно-рожеві півонії та гвоздики", "Сім червоних троянд із гіпсофілою", "Помаранчеві гербери й червоні анемони в крафт-папері", "Усе біле: гарденії, кали та ромашки", "Фіолетова еустома з гарденіями та лавандою", "Соняшники з маленьким плюшевим ведмедиком", "Персикові жовтець і камелії", "Помаранчеві гербери та сині волошки", "Червоні й білі троянди із золотою пшеницею", "Персиковий захід: помаранчеві троянди, жовтець і цинії з пампасною травою"]
+    b: ["Ніжно-рожеві півонії та гвоздики", "Сім червоних троянд із гіпсофілою", "Помаранчеві гербери й червоні анемони в крафт-папері", "Усе біле: гарденії, кали та ромашки", "Фіолетова еустома з гарденіями та лавандою", "Соняшники з маленьким плюшевим ведмедиком", "Персикові жовтець і камелії", "Помаранчеві гербери та сині волошки", "Червоні й білі троянди із золотою пшеницею", "Персиковий захід: помаранчеві троянди, жовтець і цинії з пампасною травою", "Білі троянди, блакитні гортензії та волошки"]
   },
   el: {
     name: "Ελληνικά", code: "EL", html: "el", day: "Ανθοδέσμη της ημέρας #",
@@ -334,7 +334,7 @@ window.I18N = {
       "dev.link": "Πέρασε να πεις ένα γεια στο Discord", "foot.press": "Υλικό τύπου", "sc.release": "Ημερομηνία κυκλοφορίας: θα ανακοινωθεί",
       "feat.label": "Έγραψαν για εμάς", "feat.automaton": "Ιαπωνία · Οκτ. 2026", "feat.gamebase": "Ταϊβάν · Οκτ. 2026"
     },
-    b: ["Απαλές ροζ παιώνιες και γαρίφαλα", "Επτά κόκκινα τριαντάφυλλα με γυψοφίλη", "Πορτοκαλί ζέρμπερες και κόκκινες ανεμώνες σε χαρτί κραφτ", "Ολόλευκο: γαρδένιες, κάλες και μαργαρίτες", "Μωβ λυσίανθος με γαρδένιες και λεβάντα", "Ηλιοτρόπια με ένα μικρό αρκουδάκι", "Ροδακινί νεραγκούλες και καμέλιες", "Πορτοκαλί ζέρμπερες και μπλε κενταύριες", "Κόκκινα και λευκά τριαντάφυλλα με χρυσό σιτάρι", "Ροδακινί ηλιοβασίλεμα: πορτοκαλί τριαντάφυλλα, νεραγκούλες και ζίννιες με πάμπας"]
+    b: ["Απαλές ροζ παιώνιες και γαρίφαλα", "Επτά κόκκινα τριαντάφυλλα με γυψοφίλη", "Πορτοκαλί ζέρμπερες και κόκκινες ανεμώνες σε χαρτί κραφτ", "Ολόλευκο: γαρδένιες, κάλες και μαργαρίτες", "Μωβ λυσίανθος με γαρδένιες και λεβάντα", "Ηλιοτρόπια με ένα μικρό αρκουδάκι", "Ροδακινί νεραγκούλες και καμέλιες", "Πορτοκαλί ζέρμπερες και μπλε κενταύριες", "Κόκκινα και λευκά τριαντάφυλλα με χρυσό σιτάρι", "Ροδακινί ηλιοβασίλεμα: πορτοκαλί τριαντάφυλλα, νεραγκούλες και ζίννιες με πάμπας", "Λευκά τριαντάφυλλα, μπλε ορτανσίες και κενταύριες"]
   },
   sv: {
     name: "Svenska", code: "SV", html: "sv", day: "Dagens bukett #",
@@ -358,7 +358,7 @@ window.I18N = {
       "dev.link": "Kom och säg hej på Discord", "foot.press": "Presskit", "sc.release": "Släppdatum: meddelas senare",
       "feat.label": "Omnämnt av", "feat.automaton": "Japan · okt. 2026", "feat.gamebase": "Taiwan · okt. 2026"
     },
-    b: ["Mjukt rosa pioner och nejlikor", "Sju röda rosor med brudslöja", "Orange gerbera och röda anemoner i kraftpapper", "Helt vitt: gardenior, kallor och prästkragar", "Lila lisianthus med gardenior och lavendel", "Solrosor med en liten nallebjörn", "Persikofärgade ranunkler och kamelior", "Orange gerbera och blå blåklint", "Röda och vita rosor med gyllene vete", "Persikosolnedgång: orange rosor, ranunkler och zinnior med pampasgräs"]
+    b: ["Mjukt rosa pioner och nejlikor", "Sju röda rosor med brudslöja", "Orange gerbera och röda anemoner i kraftpapper", "Helt vitt: gardenior, kallor och prästkragar", "Lila lisianthus med gardenior och lavendel", "Solrosor med en liten nallebjörn", "Persikofärgade ranunkler och kamelior", "Orange gerbera och blå blåklint", "Röda och vita rosor med gyllene vete", "Persikosolnedgång: orange rosor, ranunkler och zinnior med pampasgräs", "Vita rosor, blå hortensior och blåklint"]
   },
   no: {
     name: "Norsk", code: "NO", html: "nb", day: "Dagens bukett #",
@@ -382,7 +382,7 @@ window.I18N = {
       "dev.link": "Kom og si hei på Discord", "foot.press": "Pressekit", "sc.release": "Utgivelsesdato: kunngjøres senere",
       "feat.label": "Omtalt av", "feat.automaton": "Japan · okt. 2026", "feat.gamebase": "Taiwan · okt. 2026"
     },
-    b: ["Myke rosa peoner og nelliker", "Sju røde roser med brudeslør", "Oransje gerbera og røde anemoner i kraftpapir", "Helt hvitt: gardenia, calla og tusenfryd", "Lilla lisianthus med gardenia og lavendel", "Solsikker med en liten bamse", "Fersken ranunkler og kameliaer", "Oransje gerbera og blå kornblomster", "Røde og hvite roser med gyllen hvete", "Ferskensolnedgang: oransje roser, ranunkler og zinnia med pampasgress"]
+    b: ["Myke rosa peoner og nelliker", "Sju røde roser med brudeslør", "Oransje gerbera og røde anemoner i kraftpapir", "Helt hvitt: gardenia, calla og tusenfryd", "Lilla lisianthus med gardenia og lavendel", "Solsikker med en liten bamse", "Fersken ranunkler og kameliaer", "Oransje gerbera og blå kornblomster", "Røde og hvite roser med gyllen hvete", "Ferskensolnedgang: oransje roser, ranunkler og zinnia med pampasgress", "Hvite roser, blå hortensia og kornblomster"]
   },
   tr: {
     name: "Türkçe", code: "TR", html: "tr", day: "Günün Buketi #",
@@ -429,7 +429,7 @@ window.I18N = {
       "dev.link": "تعال وقل مرحبًا على Discord", "foot.press": "الملف الصحفي", "sc.release": "تاريخ الإصدار: سيُعلن لاحقًا",
       "feat.label": "ظهرت في", "feat.automaton": "اليابان · أكتوبر 2026", "feat.gamebase": "تايوان · أكتوبر 2026"
     },
-    b: ["فاوانيا وقرنفل بلون وردي ناعم", "سبع ورود حمراء مع زهرة النفس", "جربيرا برتقالية وشقائق نعمان حمراء في ورق كرافت", "أبيض بالكامل: غاردينيا وكالا وأقحوان", "ليسيانثوس بنفسجي مع غاردينيا ولافندر", "عباد الشمس مع دبدوب صغير", "حوذان بلون الخوخ وكاميليا", "جربيرا برتقالية وقنطريون أزرق", "ورود حمراء وبيضاء مع قمح ذهبي", "غروب الخوخ: ورود برتقالية وحوذان وزينيا مع عشب البامباس"]
+    b: ["فاوانيا وقرنفل بلون وردي ناعم", "سبع ورود حمراء مع زهرة النفس", "جربيرا برتقالية وشقائق نعمان حمراء في ورق كرافت", "أبيض بالكامل: غاردينيا وكالا وأقحوان", "ليسيانثوس بنفسجي مع غاردينيا ولافندر", "عباد الشمس مع دبدوب صغير", "حوذان بلون الخوخ وكاميليا", "جربيرا برتقالية وقنطريون أزرق", "ورود حمراء وبيضاء مع قمح ذهبي", "غروب الخوخ: ورود برتقالية وحوذان وزينيا مع عشب البامباس", "ورود بيضاء وكوبية زرقاء وقنطريون"]
   },
   az: {
     name: "Azərbaycanca", code: "AZ", html: "az", day: "Günün buketi #",
@@ -453,7 +453,7 @@ window.I18N = {
       "dev.link": "Discord-a gəl, salam ver", "foot.press": "Mətbuat dəsti", "sc.release": "Çıxış tarixi: elan ediləcək",
       "feat.label": "Haqqımızda yazanlar", "feat.automaton": "Yaponiya · oktyabr 2026", "feat.gamebase": "Tayvan · oktyabr 2026"
     },
-    b: ["Yumşaq çəhrayı pion və qərənfillər", "Gipsofila ilə yeddi qırmızı qızılgül", "Kraft kağızda narıncı gerbera və qırmızı anemonlar", "Tam ağ: qardeniya, zanbaq və çobanyastığı", "Bənövşəyi lizianthus, qardeniya və lavanda", "Günəbaxanlar və kiçik bir oyuncaq ayı", "Şaftalı rəngli ranunkulus və kameliyalar", "Narıncı gerbera və mavi göyçiçəklər", "Qırmızı və ağ qızılgüllər, qızılı buğda", "Şaftalı gün batımı: narıncı qızılgül, ranunkulus və sinniya, pampas otu ilə"]
+    b: ["Yumşaq çəhrayı pion və qərənfillər", "Gipsofila ilə yeddi qırmızı qızılgül", "Kraft kağızda narıncı gerbera və qırmızı anemonlar", "Tam ağ: qardeniya, zanbaq və çobanyastığı", "Bənövşəyi lizianthus, qardeniya və lavanda", "Günəbaxanlar və kiçik bir oyuncaq ayı", "Şaftalı rəngli ranunkulus və kameliyalar", "Narıncı gerbera və mavi göyçiçəklər", "Qırmızı və ağ qızılgüllər, qızılı buğda", "Şaftalı gün batımı: narıncı qızılgül, ranunkulus və sinniya, pampas otu ilə", "Ağ qızılgüllər, mavi hortenziya və göyçiçəklər"]
   }
 };
 window.I18N_ORDER = ["en", "ja", "zh", "zhs", "ko", "fr", "de", "es", "it", "pt", "nl", "pl", "ru", "uk", "el", "sv", "no", "tr", "ar", "az"];
