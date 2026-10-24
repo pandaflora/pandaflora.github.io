@@ -61,6 +61,7 @@
       var t = (x.t && x.t[el.dataset.i18n]) || EN[el.dataset.i18n];
       if (t) el.textContent = t;
     });
+    document.querySelectorAll(".js-langimg").forEach(function (img) { img.src = img.dataset.src.replace("{lang}", lang); });
     if (langCur) langCur.textContent = x.name;
     if (langList) langList.querySelectorAll("li").forEach(function (li) { li.setAttribute("aria-selected", li.dataset.lang === lang ? "true" : "false"); });
     if (typeof renderMarquee === "function") renderMarquee();
@@ -216,12 +217,24 @@
   onScroll();
 
   // Gentle reveal on scroll
-  var revealEls = document.querySelectorAll(".feature, .gameplay__grid, .section__head, .cta-band__card, .devnote__inner");
+  var revealEls = document.querySelectorAll(".feature, .extra, .gameplay__grid, .section__head, .cta-band__card, .devnote__inner");
   if ("IntersectionObserver" in window) {
     var io = new IntersectionObserver(function (entries) {
       entries.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add("is-in"); io.unobserve(en.target); } });
     }, { threshold: 0.15 });
     revealEls.forEach(function (el) { el.classList.add("reveal"); io.observe(el); });
+
+    // Feature videos load and play only while on screen
+    var vio = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) {
+        var v = en.target;
+        if (en.isIntersecting) { v.preload = "auto"; var p = v.play(); if (p && p.catch) p.catch(function () {}); }
+        else v.pause();
+      });
+    }, { threshold: 0.25 });
+    document.querySelectorAll(".js-lazyvideo").forEach(function (v) { vio.observe(v); });
+  } else {
+    document.querySelectorAll(".js-lazyvideo").forEach(function (v) { v.autoplay = true; v.preload = "auto"; });
   }
 
   applyLang(lang);

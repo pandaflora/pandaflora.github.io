@@ -7,23 +7,23 @@
   <meta name="description" content="Panda Flora is a cozy first-person flower shop game. Grow your own flowers, wrap every bouquet by hand and run a little shop. Wishlist on Steam.">
   <meta property="og:title" content="Panda Flora · A cozy flower shop game">
   <meta property="og:description" content="Grow your own flowers, wrap every bouquet by hand and run a little shop. Wishlist on Steam.">
-  <meta property="og:image" content="assets/img/capsule.jpg">
+  <meta property="og:image" content="assets/img/capsule.jpg?v=2">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@PandaFloraGame">
-  <link rel="icon" type="image/png" href="assets/img/favicon.png">
-  <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="assets/img/favicon.png?v=2">
+  <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png?v=2">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&family=Zen+Maru+Gothic:wght@500;700&family=Noto+Sans+TC:wght@400;700&family=Noto+Serif+TC:wght@600&family=Noto+Sans+KR:wght@400;700&family=Noto+Sans+SC:wght@400;700&family=Noto+Serif+SC:wght@600&family=Noto+Sans+Arabic:wght@400;700&family=Noto+Naskh+Arabic:wght@600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/style.css?v=20261011201528">
+  <link rel="stylesheet" href="assets/css/style.css?v=20261024c">
 </head>
 <body>
 
 <header class="nav" id="top">
   <div class="nav__inner">
     <a class="nav__brand" href="#top" aria-label="Panda Flora home">
-      <img src="assets/img/favicon.png" alt="" width="32" height="32">
+      <img src="assets/img/favicon.png?v=2" alt="" width="32" height="32">
       <span>Panda Flora</span>
     </a>
     <nav class="nav__links" aria-label="Main">
@@ -51,7 +51,7 @@
   <section class="hero">
     <div class="hero__bg" aria-hidden="true"></div>
     <div class="hero__content">
-      <img class="hero__logo" src="assets/img/logo.png" alt="Panda Flora" width="900" height="560">
+      <img class="hero__logo" src="assets/img/logo.png?v=2" alt="Panda Flora" width="900" height="526">
       <p class="hero__tagline" data-i18n="hero.tagline">A cozy first-person flower shop game.</p>
       <p class="hero__sub" data-i18n="hero.sub">Grow your own flowers, wrap every bouquet by hand, and run a little shop that grows with you.</p>
       <div class="hero__cta">
@@ -94,7 +94,7 @@
         <p data-i18n="play.body">Every bouquet starts as a seed in your garden. When it blooms, bring it to your bench, pick the stems, cut the paper and tie the ribbon. Then put it on the shelf and see who walks in.</p>
       </div>
       <figure class="glass-frame gameplay__video">
-        <video src="assets/video/wrap.mp4" poster="assets/img/wrap-poster.jpg" autoplay muted loop playsinline preload="metadata" aria-label="Wrapping a bouquet of red roses in Panda Flora"></video>
+        <video poster="assets/img/wrap-poster.jpg" autoplay muted loop playsinline preload="metadata" aria-label="Wrapping a bouquet of blue hydrangeas and white roses in Panda Flora"><source src="assets/video/wrap.webm?v=2" type="video/webm"><source src="assets/video/wrap.mp4?v=2" type="video/mp4"></video>
       </figure>
     </div>
   </section>
@@ -126,36 +126,74 @@
   <section class="section features" id="features">
     <div class="wrap">
       <article class="feature">
-        <figure class="feature__img glass-frame"><img src="assets/img/shots/garden.jpg?v=2" alt="A raised garden bed with tulips and daisies sprouting" loading="lazy" width="1600" height="900"></figure>
+        <figure class="feature__img glass-frame"><video class="js-lazyvideo" muted loop playsinline preload="none" poster="assets/img/shots/f-wrap.jpg" aria-label="Cutting wrapping paper, arranging roses and tying the ribbon at the florist bench"><source src="assets/video/f-wrap.webm" type="video/webm"><source src="assets/video/f-wrap.mp4" type="video/mp4"></video></figure>
         <div class="feature__text">
           <span class="feature__num">01</span>
-          <h3 data-i18n="f2.title">Grow your garden</h3>
-          <p data-i18n="f2.body">Plant seeds and watch them go from sprout to bloom. Unlock 45 flowers across 15 shop levels, from tulips and roses to peonies and dahlias.</p>
+          <h3 data-i18n="f1.title">Make Your Own Bouquets</h3>
+          <p data-i18n="f1.body">Listen to your customer, pick your flowers and make the bouquet with your own hands. The finishing touch is always yours.</p>
         </div>
       </article>
       <article class="feature feature--flip">
-        <figure class="feature__img glass-frame"><img src="assets/img/shots/shop.jpg?v=2" alt="Inside the flower shop, with stocked shelves, display tables and the till" loading="lazy" width="1600" height="900"></figure>
+        <figure class="feature__img glass-frame"><video class="js-lazyvideo" muted loop playsinline preload="none" poster="assets/img/shots/f-garden.jpg" aria-label="Planting, watering and harvesting tulips in the garden"><source src="assets/video/f-garden.webm" type="video/webm"><source src="assets/video/f-garden.mp4" type="video/mp4"></video></figure>
         <div class="feature__text">
           <span class="feature__num">02</span>
-          <h3 data-i18n="f3.title">Run your shop</h3>
-          <p data-i18n="f3.body">Stock the shelves, serve customers who each want something different, ship online orders and decorate the place your way.</p>
+          <h3 data-i18n="f2.title">Grow Your Flowers</h3>
+          <p data-i18n="f2.body">Plant your seeds, water them and harvest. Stock your flowers in the flower fridge. Unlock new flowers as your shop grows.</p>
         </div>
       </article>
       <article class="feature">
-        <figure class="feature__img glass-frame"><img src="assets/img/shots/wrap-day9.jpg" alt="Arranging red and white roses with golden wheat in black wrapping paper" loading="lazy" width="1600" height="900"></figure>
+        <figure class="feature__img glass-frame"><video class="js-lazyvideo" muted loop playsinline preload="none" poster="assets/img/shots/f-shelves.jpg" aria-label="Placing potted flowers and vases on the shop shelves"><source src="assets/video/f-shelves.webm" type="video/webm"><source src="assets/video/f-shelves.mp4" type="video/mp4"></video></figure>
         <div class="feature__text">
           <span class="feature__num">03</span>
-          <h3 data-i18n="f1.title">Wrap it by hand</h3>
-          <p data-i18n="f1.body">Pick your stems, cut the paper and tie the ribbon yourself. Paper, vases, pots, boxes or baskets: every bouquet is your own design.</p>
+          <h3 data-i18n="f3.title">Fill Your Shelves</h3>
+          <p data-i18n="f3.body">Line your shelves with potted flowers and vases, and get your shop ready for the day.</p>
         </div>
       </article>
       <article class="feature feature--flip">
-        <figure class="feature__img glass-frame"><img src="assets/img/shots/album-recipes.jpg" alt="The photo album with recipe pages" loading="lazy" width="1600" height="900"></figure>
+        <figure class="feature__img glass-frame"><video class="js-lazyvideo" muted loop playsinline preload="none" poster="assets/img/shots/f-customers.jpg" aria-label="A customer telling their story at the counter"><source src="assets/video/f-customers.webm" type="video/webm"><source src="assets/video/f-customers.mp4" type="video/mp4"></video></figure>
         <div class="feature__text">
           <span class="feature__num">04</span>
-          <h3 data-i18n="f4.title">Fill your photo album</h3>
-          <p data-i18n="f4.body">Snap your favorite bouquets and pin them into a scrapbook. Complete 45 recipe pages, then arrange your best shots on free pages.</p>
+          <h3 data-i18n="f4.title">Welcome Your Customers</h3>
+          <p data-i18n="f4.body">Every customer has a story: some want flowers for someone they love, others for a birthday. Listen to them and make the bouquet that fits best.</p>
         </div>
+      </article>
+      <article class="feature">
+        <figure class="feature__img glass-frame"><video class="js-lazyvideo" muted loop playsinline preload="none" poster="assets/img/shots/f-shipping.jpg" aria-label="Packing an online order and loading it onto the boat"><source src="assets/video/f-shipping.webm" type="video/webm"><source src="assets/video/f-shipping.mp4" type="video/mp4"></video></figure>
+        <div class="feature__text">
+          <span class="feature__num">05</span>
+          <h3 data-i18n="f5.title">Ship Your Orders</h3>
+          <p data-i18n="f5.body">If you like, take orders online, pack your bouquets and ship them out.</p>
+        </div>
+      </article>
+      <article class="feature feature--flip">
+        <figure class="feature__img glass-frame"><video class="js-lazyvideo" muted loop playsinline preload="none" poster="assets/img/shots/f-album.jpg" aria-label="Photographing a bouquet and pinning it into the album"><source src="assets/video/f-album.webm" type="video/webm"><source src="assets/video/f-album.mp4" type="video/mp4"></video></figure>
+        <div class="feature__text">
+          <span class="feature__num">06</span>
+          <h3 data-i18n="f6.title">Complete Your Album</h3>
+          <p data-i18n="f6.body">Take photos of your bouquets and add them to your album. Fill the recipe pages and keep your favorite shots.</p>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!-- Smaller features -->
+  <section class="section extras">
+    <div class="wrap extras__grid">
+      <article class="extra glass">
+        <h3 data-i18n="x1.title">Hire a Helper</h3>
+        <p data-i18n="x1.body">Tired of waiting at the counter? Hire an employee. Let them handle the sales while you spend more time on your bouquets.</p>
+      </article>
+      <article class="extra glass">
+        <h3 data-i18n="x2.title">Play with Friends (Coming Soon)</h3>
+        <p data-i18n="x2.body">Play alone or with up to 4 friends. Run the shop together and grow it side by side.</p>
+      </article>
+      <article class="extra glass">
+        <h3 data-i18n="x3.title">Play at Your Own Pace</h3>
+        <ul>
+          <li data-i18n="x3.a">You decide which days your shop opens</li>
+          <li data-i18n="x3.b">Just make bouquets, or run the whole shop</li>
+          <li data-i18n="x3.c">No time pressure, no penalties</li>
+        </ul>
       </article>
     </div>
   </section>
@@ -170,9 +208,9 @@
         </div>
         <div class="cta-band__widget">
           <a class="steamcard js-steam" href="https://store.steampowered.com/app/5337790/Panda_Flora/">
-            <img src="assets/img/capsule.jpg" alt="Panda Flora" width="1232" height="706" loading="lazy">
+            <img src="assets/img/capsule.jpg?v=2" alt="Panda Flora" width="1232" height="706" loading="lazy">
             <span class="steamcard__body">
-              <span class="steamcard__meta"><span data-i18n="sc.release">Release date: To be announced</span> · PC</span>
+              <span class="steamcard__meta"><span data-i18n="sc.release">Release: 2027</span> · PC</span>
               <span class="btn btn--primary steamcard__btn" data-i18n="cta.wishlist">Wishlist on Steam</span>
             </span>
           </a>
@@ -184,13 +222,14 @@
   <!-- Dev note -->
   <section class="section devnote">
     <div class="wrap devnote__inner">
-      <img src="assets/img/apple-touch-icon.png" alt="" width="88" height="88" class="devnote__icon">
+      <img src="assets/img/apple-touch-icon.png?v=2" alt="" width="88" height="88" class="devnote__icon">
       <div>
         <h2 data-i18n="dev.title">Made by one person</h2>
         <p data-i18n="dev.body">Panda Flora is built by a solo developer, one flower at a time. Devlogs, early looks and the daily bouquet all land on Discord first.</p>
         <a class="link-arrow" href="https://discord.gg/ZaYYqCMU4R" target="_blank" rel="noopener" data-i18n="dev.link">Come say hi on Discord</a>
       </div>
     </div>
+    <a class="wrap discord-banner" href="https://discord.gg/ZaYYqCMU4R" target="_blank" rel="noopener"><img class="js-langimg" data-src="assets/img/discord/{lang}.jpg" src="assets/img/discord/en.jpg" alt="Join the Panda Flora Discord" width="1170" height="300" loading="lazy"></a>
   </section>
 
 </main>
@@ -198,7 +237,7 @@
 <footer class="footer">
   <div class="wrap footer__inner">
     <div class="footer__brand">
-      <img src="assets/img/favicon.png" alt="" width="28" height="28">
+      <img src="assets/img/favicon.png?v=2" alt="" width="28" height="28">
       <span>Panda Flora</span>
     </div>
     <nav class="footer__links" aria-label="Social">
@@ -225,9 +264,9 @@
   </figure>
 </div>
 
-<script src="assets/js/bouquets.js?v=20261011201528"></script>
-<script src="assets/js/i18n.js?v=20261011201528"></script>
-<script src="assets/js/main.js?v=20261011201528"></script>
+<script src="assets/js/bouquets.js?v=20261024c"></script>
+<script src="assets/js/i18n.js?v=20261024c"></script>
+<script src="assets/js/main.js?v=20261024c"></script>
 <script data-goatcounter="https://pandaflora.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

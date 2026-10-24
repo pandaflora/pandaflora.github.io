@@ -147,7 +147,7 @@ html[lang="zh-Hant"] { --serif: "Noto Serif TC", "Fraunces", serif; --sans: "Not
 
 /* Hero */
 .hero { position: relative; min-height: min(92vh, 860px); display: grid; place-items: center; padding: 110px 16px 70px; overflow: hidden; isolation: isolate; }
-.hero__bg { position: absolute; inset: 0; z-index: -2; background: url("../img/hero.jpg") center bottom / cover no-repeat; }
+.hero__bg { position: absolute; inset: 0; z-index: -2; background: url("../img/hero.jpg?v=2") center bottom / cover no-repeat; }
 .hero::after { content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none; background: var(--hero-tint), radial-gradient(ellipse at center, rgba(var(--bg-rgb), .35) 0%, rgba(var(--bg-rgb), .1) 45%, rgba(var(--bg-rgb), 0) 70%), linear-gradient(to bottom, rgba(var(--bg-rgb), 0) 90%, var(--cream) 100%); }
 .hero__content { position: relative; z-index: 1; text-align: center; max-width: 580px; padding: 28px 28px 24px; border-radius: 28px; background: var(--card-bg); border: 1px solid var(--card-border); backdrop-filter: blur(16px) saturate(1.15); -webkit-backdrop-filter: blur(16px) saturate(1.15); box-shadow: var(--shadow); }
 .hero__logo { width: min(340px, 72%); height: auto; margin: 0 auto 10px; filter: drop-shadow(0 8px 16px rgba(58, 42, 34, .25)); }
@@ -210,6 +210,20 @@ html[lang="ja"] .featured__label { letter-spacing: .06em; }
 .feature--flip .feature__img { order: 2; }
 .feature__num { display: inline-block; font-family: var(--serif); font-size: .95rem; color: var(--rose); font-weight: 600; margin-bottom: .6em; padding: .2em .7em; border: 1px solid var(--rose); border-radius: 999px; }
 .feature__text p { color: var(--ink-soft); }
+
+/* Discord banner under the dev note */
+.discord-banner { display: block; margin-top: clamp(24px, 4vw, 40px); }
+.discord-banner img { width: 100%; height: auto; border-radius: calc(var(--radius) + 6px); box-shadow: var(--shadow); transition: transform .2s; }
+.discord-banner:hover img { transform: translateY(-2px); }
+
+/* Smaller features */
+.extras { padding-top: 0; }
+.extras__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(16px, 2.5vw, 28px); }
+.extra { padding: 26px 24px; }
+.extra h3 { margin-bottom: .5em; }
+.extra p, .extra li { color: var(--ink-soft); }
+.extra ul { margin: 0; padding-left: 1.1em; }
+.extra li + li { margin-top: .35em; }
 
 /* CTA band */
 .cta-band { padding-top: 0; }
@@ -276,8 +290,8 @@ html[lang="ja"] .featured__label { letter-spacing: .06em; }
 @media (max-width: 860px) {
   .nav__links { display: none; }
   .nav__actions { margin-left: auto; }
-  .gameplay__grid, .feature, .feature--flip, .cta-band__card, .press-grid { grid-template-columns: 1fr; }
-  .feature--flip .feature__img { order: 0; }
+  .gameplay__grid, .feature, .feature--flip, .cta-band__card, .press-grid, .extras__grid { grid-template-columns: 1fr; }
+  .feature .feature__img, .feature--flip .feature__img { order: 2; }
   .steamcard { width: 100%; }
   .facts { position: static; }
 }
